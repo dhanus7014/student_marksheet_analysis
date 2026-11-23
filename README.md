@@ -1,6 +1,7 @@
-
+Student marksheet.
 This project analyzes student academic performance
 using Python.
+Technologies used.
 - Python
 - Pandas
 - NumPy
@@ -8,7 +9,7 @@ using Python.
 - Seaborn
 - Jupyter Notebook
 
-
+Project Operations.
 1. Data Loading
 2. Data Cleaning
 3. Missing Value Analysis
@@ -18,5 +19,6 @@ using Python.
 7. Performance Analysis
 Student marks dataset in CSV format.
 
+Conclusion.
 This project helps understand student academic
 performance through data analysis.
